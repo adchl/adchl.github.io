@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-redirect_to: /assets/pdf/Adamantia_cv.pdf
+redirect_to: /assets/pdf/adamantia_cv.pdf
 #cv_pdf: example_pdf.pdf
 ---
