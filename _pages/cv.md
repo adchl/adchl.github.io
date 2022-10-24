@@ -1,8 +1,9 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav_order: 5
+redirect_to: /assets/pdf/Adamantia_cv.pdf
+#cv_pdf: example_pdf.pdf
 ---
