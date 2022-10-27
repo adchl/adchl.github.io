@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-II am a PhD candidate at the Electrical and Computer Engineering Department of Michigan State
+I am a PhD candidate at the Electrical and Computer Engineering Department of Michigan State
 University, under the advisory of <a href='https://www.egr.msu.edu/people/profile/jpapapol'>Dr. John Papapolymerou</a>. My research focuses on antenna and RF devices design and implementation using
 Additive Manufacture (AM) techniques for developing time and cost efficient prototyping methods. In my research I use
 concepts from electromagnetic fields, radio frequency integrated circuits, material science and
